@@ -54,36 +54,3 @@ python main.py
 
 # Start API
 python api.py
-Then open: http://localhost:8000/docs
-
-## 📁 Files
-
-| File | What it does |
-|------|---------------|
-| `main.py` | Run all 3 approaches |
-| `api.py` | REST API server |
-| `content_based.py` | Genre-based recommendations |
-| `collaborative.py` | User-user collaborative filtering |
-| `matrix_factorization.py` | SVD model |
-| `evaluate_all.py` | Precision/Recall metrics |
-
----
-
-## 📈 Sample Output
-Recommendations for User 1 (SVD):
-
-Shawshank Redemption (4.89)
-
-Seven Samurai (4.88)
-
-Usual Suspects (4.77)
-
-FastAPI, Uvicorn
-
-## 🛠️ Built With
-
-- Python, Pandas, NumPy
-- Scikit-learn, Surprise
-- FastAPI, Uvicorn
-
----
