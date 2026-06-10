@@ -64,5 +64,3 @@ python main.py
 python api.py
 
 # 6. Open your browser to: http://localhost:8000/docs
-
-seems perfect?
