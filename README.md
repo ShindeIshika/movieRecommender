@@ -47,14 +47,22 @@
 ## 🚀 Quick Start
 
 ```bash
-# Install dependencies
+# 1. Clone the repository
+git clone https://github.com/ShindeIshika/movie-recommender.git
+cd movie-recommender
+
+# 2. Install dependencies
 pip install -r requirements.txt
 
-# Download data
+# 3. Download MovieLens dataset
 python download_data.py
 
-# Run demo
+# 4. Run the recommendation demo
 python main.py
 
-# Start API
+# 5. Start the API server
 python api.py
+
+# 6. Open your browser to: http://localhost:8000/docs
+
+seems perfect?
