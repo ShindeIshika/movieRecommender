@@ -63,4 +63,5 @@ python main.py
 # 5. Start the API server
 python api.py
 
-# 6. Open your browser to: http://localhost:8000/docs
+# 6. Open your browser to:
+http://localhost:8000/docs
