@@ -38,6 +38,10 @@
 ### Terminal Demo
 ![Terminal](screenshots/terminal-output.png)
 
+### Data Visualizations
+![Chart 1](screenshots/chart-1.png)
+![Chart 2](screenshots/chart-2.png)
+
 ---
 
 ## 🚀 Quick Start
